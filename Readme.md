@@ -14,9 +14,9 @@ The project is deployed and accessible at [Job Apply Portal - Live Demo](http://
  ![Home Page](https://github.com/abuiron/jobsea-fe/blob/main/src/images/front.png?raw=true)
 
 ## Dashboard Page
- ![Dashboard  page](https://github.com/abuiron/jobsea-fe/blob/main/src/images/Dashboard.png?raw=true)
+ ![Dashboard  page](https://github.com/abuiron/jobsea-fe/blob/main/src/images/dashboard.png?raw=true)
 
- 
+
 ## Key Features
 
 - **User Authentication:** Secure login and registration functionality with role-based access (admin and user).
