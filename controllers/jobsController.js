@@ -1,5 +1,5 @@
 const Job = require('../models/jobModel');
-const JobType = require('../models/jobTypeModel');
+const JobType = require('../models/JobTypeModel');
 const ErrorResponse = require('../utils/errorResponse');
 
 //it's work
