@@ -1,6 +1,7 @@
 const Job = require('../models/jobModel');
 const JobType = require('../models/jobTypeModel');
 const ErrorResponse = require('../utils/errorResponse');
+
 //it's work
 //create job
 exports.createJob = async (req, res, next) => {
