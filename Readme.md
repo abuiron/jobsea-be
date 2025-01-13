@@ -4,7 +4,7 @@ This project is a comprehensive **Job Apply Portal** built using the MERN (Mongo
 
 ## Deployment
 
-The project is deployed and accessible at [Job Apply Portal - Live Demo](http://jobsea.netlify.app).
+The project is deployed and accessible at [Job Apply Portal - Live Web App](http://jobsea.netlify.app).
 
 ## Frontend Repo
 -[Job Sea Frontend repo](https://github.com/abuiron/jobsea-fe)
